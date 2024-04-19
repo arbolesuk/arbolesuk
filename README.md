@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arbolesuk
-- 👀 We're interested in financial transactions on the blockchain with a specific interest in Solana, Ethereum & Bitcoin
-- 🌱 I’m currently learning to build a secure and scalable payment gateway for both fiat and a selection of stable coins
-- 📫 How to reach me: Contact page on our website: https://www.arboles.co.uk/contact/
+- 👋 /. Hello World /. I’m @arbolesuk
+- 👀 We're interested in developing financial transactions on the blockchain with a specific interest in Solana, Ethereum & Bitcoin
+- 🌱 We're currently exploring optiond for a secure and scalable payment gateway for both fiat and a selection of stable coins
+- 📫 How to reach us :: Contact page on our website: https://www.arboles.co.uk/contact/
 - ⚡ Fun fact: Crab sticks don't contain any crab.
 
 <!---
